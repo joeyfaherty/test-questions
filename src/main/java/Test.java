@@ -1,9 +1,9 @@
 import java.util.*;
 
-/**
+/*
  * Write a function which takes (x, y)
  * where x = [4, 92, 4, 7, 22] and y = [7, -2, 4, 4, 22, 92]
- * and the result is -2 as -2 is present in y but not in x
+ * and the result is -2, as -2 is present in y but not in x
  */
 public class Test {
 
